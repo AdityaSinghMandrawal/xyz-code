@@ -1,9 +1,9 @@
-# loopcode
+# xyz
 
-Simple Python loop examples (`for`, `while`, nested, list iteration).
+Simple Python loop examples.
 
 ## Run
 
 ```bash
-python3 loopcode.py
+python3 xyz.py
 ```
